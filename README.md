@@ -1,4 +1,4 @@
-# Java Rate Limiter (Sliding Window Log)
+# Java Rate Limiter (Sliding Window)
 
 ## How It Works
 
